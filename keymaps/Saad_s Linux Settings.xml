@@ -4,6 +4,7 @@
   </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="WINDOWS" second-keystroke="W" />
   </action>
   <action id="EditorSelectWord" />
   <action id="SwitchApply">
